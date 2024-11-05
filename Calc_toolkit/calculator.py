@@ -1,4 +1,4 @@
-# calc_toolkit/shapes.py
+# calc_toolkit/calculator.py
 
 def add(a, b):
     return a + b
