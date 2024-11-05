@@ -10,7 +10,6 @@ from .calculator import (
 __all__ = [
     "add",
     "subtract",
-    " multiply",
     "multiply",
     "divide",
 ]
